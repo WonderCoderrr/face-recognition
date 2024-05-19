@@ -3,8 +3,8 @@ paths:
     video_path: "videos/video.mp4"
     model_path: "models/haarcascade_frontalface_default.xml"
   outputs:
-    video_path: "video_output.mp4"
-    json_path: "face_data.json"
+    video_path: "outputs/video_output.mp4"
+    json_path: "outputs/face_data.json"
 model:
   min_size:
     w: 3
