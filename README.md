@@ -21,7 +21,7 @@ This project is a facial recognition system that detects faces in a video stream
 3. Run the setup script to create a new Conda environment, install required packages, and execute the main script:
 
    ```bash
-   ./setup.sh
+   source setup.sh 
    ```
 
 ## Configuration
