@@ -50,3 +50,10 @@ python main.py
 ```
 
 The processed video with face detection annotations and the face data JSON file will be saved in the specified output paths.
+
+
+## Pre-Trained Model License
+
+The pre-trained model `haarcascade_frontalface_default.xml` used in this project is provided by OpenCV. Please refer to the [OpenCV GitHub repository](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml) for the license information.
+
+For the most accurate and up-to-date information regarding the license, refer directly to the LICENSE file in the OpenCV repository.
